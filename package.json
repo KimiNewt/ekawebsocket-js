@@ -1,0 +1,22 @@
+{
+  "name": "ekawebsocket-js",
+  "version": "0.1.0",
+  "description": "A websocket wrapper that works with eka-websocket servers",
+  "main": "lib/ekawebsocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KimiNewt/ekawebsocket-js"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Dor Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimiNewt/ekawebsocket-js/issues"
+  },
+  "homepage": "https://github.com/KimiNewt/ekawebsocket-js"
+}
